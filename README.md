@@ -1,11 +1,14 @@
-# Perancangan Visualisasi Data  
+
+#Alur Penelitian
+
+## Perancangan Visualisasi Data  
  Alur diawali dengan perancangan visualisasi data. Dalam tahap ini penulis membuat sketsa dashboard yang akan dibangun. 
  
  *Sketsa Awal : Sketsa awal rancangan dashboard.pdf*
  
  Dalam sketsa awal, digunakan 3 teknik visualisasi data yaitu : Bar chart, Tree Map , dan Parallel Coordinates. Gambar yang digunakan pada sketsa awal bersumber dari Google. Selain merancang tampilan dashboard ditentukan pula data yang akan digunakan serta fitur interaktif yang akan diterapkan. Selain itu, ditentukan nantinya akan menggunakan color blind safe color dalam visualisasi data.
  
-# Data Preparation
+## Data Preparation
   Pada tahap ini, dilakukan pengambilan dan pemilihan data yang akan digunakan yang sesuai dengan kebutuhan data yang akan dilakukan visualisasi.Setelah dipilih data akan di-input dalam dataset dengan format data berupa Microsoft Excel. Beberapa data sudah tersedia di web BPS sehingga data akan diunduh dan beberapa lainnya belum sehingga dilakukan input manual ke Microsoft Excel. Oleh karena itu ,akan dilakukan penggabungan antara data yang sudah tersedia dan data hasil input manual. Setelah itu akan dilakukan pengecekan ulang data untuk memastikan tidak ada yang salah input.
 
 Berikut adalah data yang digunakan (dataset) :
@@ -28,7 +31,7 @@ Berikut adalah data yang digunakan (dataset) :
 
 _Dataset terdiri dari 71 baris dan 18 kolom. Dalam dataset terdapat missing values. Namun ini dapat diabaikan karena dalam pengerjaannya di Tableau data NULL dapat diabaikan_
 
-# Pembangunan Dashboard
+## Pembangunan Dashboard
   Pembangunan dashboard dilakukan dengan menggunakan alat Tableau. Setelah visualisasi data selesai, dashboard akan di-publish di Tableau Public agar dapat diakses publik. 
   
   Pada tahap ini dilakukan juga revisi sketsa awal perancangan visualisasi data. Dimana teknik visualisasi datanya bertambah satu yaitu Pie Chart. Tata letak grafik juga mengalami perubahan dari sketsa awal. Selanjutnya dilakukan pembangunan dashboard dengan mempertimbangkan berbagai komponen antara lain warna, ukuran font, jenis font, tata letak font, background , dll. Hingga terbentuklah dashboard dengan 4 teknik visualisasi data yaitu : Tree Map, Bar Chart, Pie Chart dan Parallel Coordinates serta visualisasi tambahan yang hanya menunjukkan nilai dari suatu variabel. Visualisasi tambahan ini bertujuan hanya untuk memeperlihatkan nilai dari tiap indikator kriminalitas Indonesia. Visualiasi tambahan ini menggunkan gambar agar terlihat menarik. Gambar merupakan logo yang diperoleh dari powerpoint template https://slidesgo.com/ .
