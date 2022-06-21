@@ -9,7 +9,7 @@ Berikut adalah tahapan dalam penelitian ini :
  
  **Sketsa Awal : Sketsa awal rancangan dashboard.pdf**
  
- Dalam sketsa awal, digunakan 3 teknik visualisasi data yaitu : Bar chart, Tree Map , dan Parallel Coordinates. Gambar yang digunakan pada sketsa awal bersumber dari Google. Selain merancang tampilan dashboard ditentukan pula data yang akan digunakan serta fitur interaktif yang akan diterapkan. Selain itu, ditentukan nantinya akan menggunakan color blind safe color dalam visualisasi data.
+ Dalam sketsa awal, digunakan 3 teknik visualisasi data yaitu : Bar chart, Tree Map , dan Parallel Coordinates serta satu visualisasi data tambahan yang hanya menunjukkan angka atau nilai dari suatu variabel. Gambar yang digunakan pada sketsa awal bersumber dari https://www.google.com. Selain merancang tampilan _dashboard_ ditentukan pula data yang akan digunakan serta fitur interaktif yang akan diterapkan. Selain itu, ditentukan nantinya akan menggunakan color blind safe color dalam visualisasi data.
  
 ## Data Preparation
   Pada tahap ini, dilakukan pengambilan dan pemilihan data yang akan digunakan yang sesuai dengan kebutuhan data yang akan dilakukan visualisasi.Setelah dipilih data akan di-input dalam dataset dengan format data berupa Microsoft Excel. Beberapa data sudah tersedia di web BPS sehingga data akan diunduh dan beberapa lainnya belum sehingga dilakukan input manual ke Microsoft Excel. Oleh karena itu ,akan dilakukan penggabungan antara data yang sudah tersedia dan data hasil input manual. Setelah itu akan dilakukan pengecekan ulang data untuk memastikan tidak ada yang salah input.
