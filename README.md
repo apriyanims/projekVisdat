@@ -1,8 +1,7 @@
 # Data Preparation
-  Pada tahap ini, dilakukan pengambilan dan pemilihan data yang akan digunakan yang sesuai dengan kebutuhan data yang akan dilakukan visualisasi.Setelah dipilih data akan di-input dalam data set dengan
-format data berupa Microsoft Excel
+  Pada tahap ini, dilakukan pengambilan dan pemilihan data yang akan digunakan yang sesuai dengan kebutuhan data yang akan dilakukan visualisasi.Setelah dipilih data akan di-input dalam data set dengan format data berupa Microsoft Excel
 
-Berikut adalah data yang digunakan :
+Berikut adalah data yang digunakan (dataset) :
 
 +	Persentase Penduduk Korban Kejahatan yang Melaporkan ke Polisi
 +	Persentase Penduduk Korban Kejahatan
@@ -15,7 +14,8 @@ Berikut adalah data yang digunakan :
 +	Jumlah Kejahatan Menurut Kelompok Jenis Kejahatan (Top 10)
 +	Persentase Korban Kejahatan Berdasarkan Jenis Kejahatan yang di Alami
 
-*Data untuk setiap provinsi dan selama periode 2019-2020 
+*Dataset : Data Kejahatan.xlsx*
 
-_Kecuali: Jumlah Kejahatan yang Diselesaikan, Data Jumlah Kejahatan Menurut Kelompok Jenis Kejahatan (Top 10) ,dan
-Persentase Korban Kejahatan Berdasarkan Jenis Kejahatan yang di Alami karena hanya tersedia data untuk Indonesia_
+*Data untuk setiap provinsi dan selama periode 2019-2020 (_Kecuali: Jumlah Kejahatan yang Diselesaikan, Data Jumlah Kejahatan Menurut Kelompok Jenis Kejahatan (Top 10) ,dan Persentase Korban Kejahatan Berdasarkan Jenis Kejahatan yang di Alami karena hanya tersedia data untuk Indonesia_)
+
+_Dalam dataset terdapat missing values. Namun ini dapat diabaikan karena dalam pengerjaannya di Tableau data NULL dapat diabaikan_
