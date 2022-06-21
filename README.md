@@ -1,10 +1,13 @@
 
-#Alur Penelitian
+# Alur Penelitian
+Diagram alur penelitian dapat dilihat pada **Diagram alur penelitian.png**
+
+Berikut adalah tahapan dalam penelitian ini :
 
 ## Perancangan Visualisasi Data  
  Alur diawali dengan perancangan visualisasi data. Dalam tahap ini penulis membuat sketsa dashboard yang akan dibangun. 
  
- *Sketsa Awal : Sketsa awal rancangan dashboard.pdf*
+ **Sketsa Awal : Sketsa awal rancangan dashboard.pdf**
  
  Dalam sketsa awal, digunakan 3 teknik visualisasi data yaitu : Bar chart, Tree Map , dan Parallel Coordinates. Gambar yang digunakan pada sketsa awal bersumber dari Google. Selain merancang tampilan dashboard ditentukan pula data yang akan digunakan serta fitur interaktif yang akan diterapkan. Selain itu, ditentukan nantinya akan menggunakan color blind safe color dalam visualisasi data.
  
@@ -25,7 +28,7 @@ Berikut adalah data yang digunakan (dataset) :
 +	Jumlah Kejahatan Menurut Kelompok Jenis Kejahatan (Top 10)
 +	Persentase Korban Kejahatan Berdasarkan Jenis Kejahatan yang di Alami
 
-*Dataset : Data Kejahatan.xlsx*
+**Dataset : Data Kejahatan.xlsx**
 
 *Data untuk setiap provinsi dan Indonesia selama periode 2019-2020 (_Kecuali: data Jumlah Kejahatan yang Diselesaikan, data Jumlah Kejahatan Menurut Kelompok Jenis Kejahatan (Top 10) ,dan Persentase Korban Kejahatan Berdasarkan Jenis Kejahatan yang di Alami hanya tersedia data untuk Indonesia_)
 
@@ -40,7 +43,7 @@ _Dataset terdiri dari 71 baris dan 18 kolom. Dalam dataset terdapat missing valu
   
   Proses pembangunan dashboard lengkapnya dapat dilihat pada tableau workbook. Dimana terlihat sebelum membuat dashboard dibuat terlebih dahulu visualisasi data nya pada worksheet. Selanjutnya, tiap grafik pada worksheet akan disusun pada dashboard.
 
-*Workbook Tableau : Dashboard.tbw*
+**Workbook Tableau : Dashboard.tbw**
 
   Setelah dashboard sudah jadi. Selanjutnya, dashboard di-publish di Tableau Public agar dapat dikases publik. Berikut link tableau :
  
