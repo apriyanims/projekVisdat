@@ -45,6 +45,6 @@ _Dataset terdiri dari 71 baris dan 18 kolom. Dalam dataset terdapat missing valu
 
 **Workbook Tableau : Dashboard.twb**
 
-  Setelah dashboard sudah jadi. Selanjutnya, dashboard di-publish di Tableau Public agar dapat dikases publik. Berikut link tableau :
+  Setelah dashboard sudah jadi. Selanjutnya, dashboard di-publish di Tableau Public agar dapat dikases publik. Berikut link akses tableau public :
  
 https://public.tableau.com/views/Dashboard_16555376991020/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
