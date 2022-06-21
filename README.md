@@ -1,6 +1,6 @@
 
 # Alur Penelitian
-Diagram alur penelitian dapat dilihat pada **Diagram alur penelitian.png**
+Diagram alur penelitian dapat dilihat pada **Diagram Alur Penelitian.png**
 
 Berikut adalah tahapan dalam penelitian ini :
 
@@ -43,7 +43,7 @@ _Dataset terdiri dari 71 baris dan 18 kolom. Dalam dataset terdapat missing valu
   
   Proses pembangunan dashboard lengkapnya dapat dilihat pada tableau workbook. Dimana terlihat sebelum membuat dashboard dibuat terlebih dahulu visualisasi data nya pada worksheet. Selanjutnya, tiap grafik pada worksheet akan disusun pada dashboard.
 
-**Workbook Tableau : Dashboard.tbw**
+**Workbook Tableau : Dashboard.twb**
 
   Setelah dashboard sudah jadi. Selanjutnya, dashboard di-publish di Tableau Public agar dapat dikases publik. Berikut link tableau :
  
